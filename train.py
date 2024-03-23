@@ -221,4 +221,4 @@ if __name__ == "__main__":
 
     # All done
     print("\nTraining complete.")
-    return tb_writer
+    print(tb_writer)
